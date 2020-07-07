@@ -1,0 +1,3 @@
+Todos os ponteiros utilizam 4 bytes (32 bits) de espaco na memoria, independentemente de qual tipo de variavel ele aponta.
+
+Ponteiros armazenam enderecos de memoria, que sao escritos (por convencao) no formato 0x1234... (hexadecimal).

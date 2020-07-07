@@ -1,0 +1,4 @@
+Stacks pode ser limitadas ou ilimitadas..
+
+Uso de array torna a pilha limitada..
+LinkedList torna a pilha de tamanho indefinido..

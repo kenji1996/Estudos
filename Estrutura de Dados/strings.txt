@@ -1,0 +1,16 @@
+Strings na verdade são vetores de chars.
+
+Um ponteiro apontará para o primeiro elemento da array (char* vetor[0]) e considerará todos os elementos seguintes até o elemento N retornar \0.
+
+\0 é um indicador para o compilador para mostrar em que ponto a sequencia de chars deve parar.
+
+char* nome;
+
+nome = "Kenji";
+
+nome[0] = "K"
+nome[1] = "e"
+nome[2] = "n"
+nome[3] = "j"
+nome[4] = "i"
+nome[5] = \0
